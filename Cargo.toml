@@ -1,0 +1,8 @@
+[package]
+name = "music-library"
+version = "0.1.0"
+authors = ["daveystruijk <mail@daveystruijk.com>"]
+
+[dependencies]
+glob = "*"
+id3 = "0.1.10"

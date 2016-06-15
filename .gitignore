@@ -1,0 +1,7 @@
+target
+Cargo.lock
+*.mp3
+*.wav
+*.m3u
+*.zip
+.DS_Store
