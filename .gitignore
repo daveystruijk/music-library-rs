@@ -4,4 +4,5 @@ Cargo.lock
 *.wav
 *.m3u
 *.zip
+*.txt
 .DS_Store
